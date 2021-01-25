@@ -1,6 +1,6 @@
 ### Hi there 👋
 test
-![](github.gif)
+![](https://cdn.discordapp.com/attachments/432269414511935515/803155702150594604/github.gif)
 <!--
 **drooopyy/drooopyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
